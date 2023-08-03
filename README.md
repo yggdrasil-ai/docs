@@ -23,4 +23,3 @@ Ready to dive into the future? [Start here](https://app.spokes-ai.com).
 Welcome to Spokes! Where the power of AI is at your fingertips.
 
 For any queries, feel free to reach out to us on our [website](https://www.spokesai.com).
-```
