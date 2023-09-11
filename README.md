@@ -8,17 +8,18 @@ With SpokesAI, you don't need deep technical knowledge to bring these spokes to 
 
 ## What Can You Do with Spokes?
 
-1.  **Create Spokes**: Design your own AI agent capable of interacting with users in natural language, understanding their needs, and providing relevant responses.
-2.  **Customize Your Spokes**: Tailor your AI's conversational style, behavior, and approved actions to your specific requirements. Import your own documents to establish a solid knowledge base for your spokes.
-3. **Empower Your Spokes to Act**: Equip your AI with the capability to perform a diverse range of actions using our growing set of built-in features, anything that Zapier can automate, or any custom action you program.
-4. **Interact & Learn**: Engage with your AI, observe their skills in action, and fine-tune their capabilities based on performance.
-5. **Seamless Integration**: Effortlessly integrate your spokes into a wide range of tools for a smooth user experience.
+1. **Create Spokes**: Design your own AI agent capable of interacting with users in natural language, understanding their needs, and providing relevant responses.
+2. **Customize Your Spokes**: Tailor your AI's conversational style and behavior to your specific requirements. Import your own documents to establish a solid knowledge base for your spokes.
+3. **Control Your Spokes' Knowledge**: Upload PDF documents and see your AI using them as their own knowledge, quoting the page where they got their information.
+4. **Interact & Learn**: Engage with your AI, observe their skills in action, and fine-tune their capabilities.
+5. **Seamless Integration**: Effortlessly integrate your spokes into a wide range of tools, such as Slack or Telegram.
 
-Getting started with SpokesAI is simple. Just sign up, set up your first spoke, and let it work its magic. For additional guidance, you can explore our [User Guide](UserGuide.md) and [FAQ](FAQ.md) sections to become more familiar with the platform.
+Getting started with SpokesAI is simple. Just [sign up for our waitlist](https://spokesai.app/register) and wait for instructions!
+For additional guidance, you can explore our [User Guide](UserGuide.md) and [FAQ](FAQ.md) sections to become more familiar with the platform.
 
 If you're a developer interested in more advanced features, take a look at our [Technical Documentation](#). Here, you'll find guides on building your own actions and integrating Spokes into your systems using our [API](#).
 
-Ready to dive into the future? [Start here](https://app.spokes-ai.com).
+Ready to dive into the future? [Start here](https://spokesai.app).
 
 Welcome to Spokes! Where the power of AI is at your fingertips.
 
