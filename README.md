@@ -13,7 +13,7 @@ Con SpokesAI, no necesitas mucho conocimiento técnico para dar vida a tus propi
 4. **Interactúa y Aprende**: Interactúa con tu IA, observa sus habilidades en acción y ajusta sus capacidades.
 5. **Integración Trivial**: Integra sin esfuerzo tus spokes en una amplia gama de herramientas, como Slack o Telegram.
 Comenzar con SpokesAI es fácil. Solo [regístrate en nuestra lista de espera](https://spokesai.app/register) y espera instrucciones ;)
-Para más información, puedes explorar nuestras secciones de [Guía del Usuario](UserGuide.md) y [Preguntas Frecuentes](FAQ.md) para familiarizarte más con la plataforma
+Para más información, puedes explorar nuestras secciones de [Guía del Usuario](UserGuideES.md) y [Preguntas Frecuentes](FAQ.md) para familiarizarte más con la plataforma
 
 Si eres un desarrollador interesado en características más avanzadas, echa un vistazo a nuestra [Documentación Técnica](#). Ahí encontrarás guías para crear tus propias acciones e integrar Spokes en tus sistemas via [API](#).
 
@@ -41,7 +41,7 @@ With SpokesAI, you don't need much technical knowledge to bring your own agents 
 5. **Trivial Integration**: Effortlessly integrate your spokes into a wide range of tools, such as Slack or Telegram.
 
 Getting started with SpokesAI is simple. Just [sign up for our waitlist](https://spokesai.app/register) and wait for instructions!
-For additional guidance, you can explore our [User Guide](UserGuide.md) and [FAQ](FAQ.md) sections to become more familiar with the platform.
+For additional guidance, you can explore our [User Guide](UserGuideEN.md) and [FAQ](FAQ.md) sections to become more familiar with the platform.
 
 If you're a developer interested in more advanced features, take a look at our [Technical Documentation](#). Here, you'll find guides on building your own actions and integrating Spokes into your systems using our [API](#).
 
