@@ -31,7 +31,7 @@ Veamos cómo:
 
 5. **Prueba tu spoke**: Es hora de verlo en acción. Haz clic en el botón ‘Chat’ en la página de hablantes para iniciar una conversación.
 
-![Botón 'Chat'](https://storage.googleapis.com/yggdrasil-ai-hermod-public/docs/images/chatbutton.JPG)
+![Botón 'Chat'](https://storage.googleapis.com/yggdrasil-ai-hermod-public/docs/images/chatbutton.jpg)
 ![Conversación de prueba](https://storage.googleapis.com/yggdrasil-ai-hermod-public/docs/images/testConversationES.JPG)
 
 ¡Y ya tienes tu primer spoke! Sin embargo, aún no sabe mucho sobre FutureNow... Vamos a darle una base de conocimientos interesante.
