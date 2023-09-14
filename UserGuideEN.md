@@ -33,7 +33,7 @@ Here's how:
 5.  **Test Your Spoke**: It's time to see her in action. Click the 'Play' button in spokes page to start a conversation.
     
     ![Play Button](https://storage.googleapis.com/yggdrasil-ai-hermod-public/docs/images/chatbutton.jpg)
-    ![Test conversation](https://storage.googleapis.com/yggdrasil-ai-hermod-public/docs/images/testConversationEN.jpg)
+    ![Test conversation](https://storage.googleapis.com/yggdrasil-ai-hermod-public/docs/images/testConversationEN.JPG)
     
 
 And just like that, you've hired your first Spoke! However, it doesn't know much about FutureNow yet, so it makes things up, let's give it a cool knowledge base.
